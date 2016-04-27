@@ -1,0 +1,28 @@
+body {
+	background-color: gray;
+	margin: auto;
+
+
+}
+
+.container {
+	width: 70%;
+	margin: auto;
+}
+
+header {
+	padding-top: 10px;
+}
+
+nav {
+	background-color: #3FDD4D;
+	
+}
+
+#Rashid.jpg{
+	background-size: cover;
+}
+
+p{
+	border-style: double;
+}
